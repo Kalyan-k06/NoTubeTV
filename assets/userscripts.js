@@ -677,7 +677,7 @@
     },
   };
 
-  const sponsorblockAPI = "https://api.sponsor.ajay.app/api";
+  const sponsorblockAPI = "";
 
   class SponsorBlockHandler {
     video = null;
